@@ -28,7 +28,6 @@ Web developer passionate about technology
 
 <br>
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&langs_count=8)](https://github.com/joaopealves/github-readme-stats" />
-    
     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=RomuloLim&hide=contribs,prs" />
 
 ### Talk to me:
