@@ -28,7 +28,9 @@ Web developer passionate about technology
 - ✨ You don't have to be a hero to save the world.
 
 <br>
-    <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&langs_count=5)" />
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim)](https://github.com/anuraghazra/github-readme-stats)
+
+
     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=RomuloLim&hide=contribs,prs" />
 
 ### Talk to me:
