@@ -36,8 +36,8 @@ Web developer passionate about technology
 
 ### My recent repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker)](https://github.com/RomuloLim/coronavirus-self-checker) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network)](https://github.com/RomuloLim/Vue-Social-Network)
 
 
 ### Talk to me:
