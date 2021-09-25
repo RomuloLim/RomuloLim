@@ -26,12 +26,19 @@ Web developer passionate about technology
 - 📚 Learning Vuejs
 - 💜 Back End is so perfect!
 - ✨ You don't have to be a hero to save the world.
-
 <br>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim)](https://github.com/anuraghazra/github-readme-stats)
 
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim&count_private=true&show_icons=true&&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-    <img width="434px" src="https://github-readme-stats.vercel.app/api?username=RomuloLim&hide=contribs,prs" />
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&layout=compact&count_private=true&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   
+<!--    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romuloLim)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### My recent repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Talk to me:
 
