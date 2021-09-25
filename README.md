@@ -30,15 +30,14 @@ Web developer passionate about technology
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim&count_private=true&show_icons=true&&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&layout=compact&count_private=true&show_icons=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
 <!--    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romuloLim)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### My recent repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker)](https://github.com/RomuloLim/coronavirus-self-checker) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network)](https://github.com/RomuloLim/Vue-Social-Network)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=tokyonight)](https://github.com/RomuloLim/coronavirus-self-checker) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network&theme=tokyonight)](https://github.com/RomuloLim/Vue-Social-Network)
 
 ### Talk to me:
 
