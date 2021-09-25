@@ -37,7 +37,7 @@ Web developer passionate about technology
 ### My recent repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=tokyonight)](https://github.com/RomuloLim/coronavirus-self-checker) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network&theme=tokyonight)](https://github.com/RomuloLim/Vue-Social-Network)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network&theme=tokyonight)](https://github.com/RomuloLim/Vue-Social-Network)
 
 ### Talk to me:
 
