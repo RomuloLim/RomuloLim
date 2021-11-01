@@ -22,7 +22,7 @@ Web developer passionate about technology
 <br>
 
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
-- 💻 I am currently improving my knowledge of Laravel, NodeJs and MySQL.
+- 💻 I am currently improving my knowledge of Laravel, NodeJs and PostgreSQL.
 - 📚 Learning Vuejs
 - 💜 Back End is so perfect!
 - ✨ You don't have to be a hero to save the world.
