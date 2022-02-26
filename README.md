@@ -1,8 +1,5 @@
-# Hello, I am Rômulo, welcome to my world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-Web developer passionate about technology
-<br>
-
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20world!;Full-stack%20Web%20Developer;Undergraduate%20of%20Computer%20Science;Always%20learning%20new%20things&font=Jetbrains%20Mono&center=true&width=440&height=45&color=628fdb&size=10" style="text-align: center; width:100%">
+   
 ## Technologies
 
 <div text-align="justify">
@@ -21,12 +18,15 @@ Web developer passionate about technology
 
 <br>
 
-- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
-- 💻 I am currently improving my knowledge of Laravel, NodeJs and PostgreSQL.
-- 📚 Learning Vuejs
+## About Me
+
+- 🎓 &nbsp;<a href="http://www.uece.br/" target="_blank">UECE - Ceará State University</a>.
+- 💻 I am currently improving my knowledge of Laravel and learning VueJS.
 - 💜 Back End is so perfect!
-- ✨ You don't have to be a hero to save the world.
+- ✨ "You don't have to be a hero to save the world".
 <br>
+
+## My Github stats
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim&count_private=true&show_icons=true&&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,12 +34,12 @@ Web developer passionate about technology
    
 <!--    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romuloLim)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### My recent repositories
+## My recent repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=tokyonight)](https://github.com/RomuloLim/coronavirus-self-checker) 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=Vue-Social-Network&theme=tokyonight)](https://github.com/RomuloLim/Vue-Social-Network)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=social-api&theme=tokyonight)](https://github.com/RomuloLim/social-api)
 
-### Talk to me:
+## Talk to me:
 
 [![Linkedin: Rômulo Lima](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/r%C3%B4mulo-lima-fonseca-1875351a0) [![Gmail: Rômulo Lima](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=EA4335)](mailto:romulo.lf123@gmail.com)
