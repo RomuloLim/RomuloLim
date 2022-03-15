@@ -41,4 +41,4 @@
 
 ## Talk to me:
 
-[![Linkedin: Rômulo Lima](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/r%C3%B4mulo-lima-fonseca-1875351a0) [![Gmail: Rômulo Lima](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=EA4335)](mailto:romulo.lf123@gmail.com)
+[![Gmail: Rômulo Lima](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=EA4335)](mailto:romulo.lf123@gmail.com) [![Linkedin: Rômulo Lima](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/r%C3%B4mulo-lima-fonseca-1875351a0) [![Twitter: Rômulo Lima](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/romuloo_lima)
