@@ -28,16 +28,14 @@
 
 ## My Github stats
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim&count_private=true&show_icons=true&&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloLim&count_private=true&show_icons=true&&theme=github_dark&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloLim&layout=compact&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
    
-<!--    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romuloLim)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## My recent repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=tokyonight)](https://github.com/RomuloLim/coronavirus-self-checker) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=EAD-API&theme=tokyonight)](https://github.com/RomuloLim/EAD-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=github_dark)](https://github.com/RomuloLim/coronavirus-self-checker) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=EAD-API&theme=github_dark)](https://github.com/RomuloLim/EAD-API)
 
 ## Talk to me:
 
