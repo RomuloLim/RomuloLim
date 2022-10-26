@@ -21,7 +21,7 @@
 ## About Me
 
 - 🎓 Undergraduate - <a href="http://www.uece.br/" target="_blank">UECE - Ceará State University</a>.
-- 💻 I am currently improving my knowledge of Laravel and learning Python.
+- 💻 I am currently improving my knowledge of Laravel and learning ReactJS.
 - 💜 Back End is so perfect!
 - ✨ "You don't have to be a hero to save the world".
 <br>
