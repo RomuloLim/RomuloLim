@@ -34,6 +34,7 @@
    
 ## My recent repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=awesome-beers&theme=github_dark)](https://github.com/RomuloLim/EAD-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=coronavirus-self-checker&theme=github_dark)](https://github.com/RomuloLim/coronavirus-self-checker) 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomuloLim&repo=EAD-API&theme=github_dark)](https://github.com/RomuloLim/EAD-API)
 
