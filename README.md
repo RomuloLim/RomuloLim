@@ -11,11 +11,14 @@
 <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
 <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
 <img src="https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=000&labelColor=61DBFB" />
+ 
+<img src="https://img.shields.io/badge/mysql-F29221?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=F29221" />
+<img src="https://img.shields.io/badge/postgres-0064a5?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=0064a5" />
+
    
 ## Secondary Technologies   
 <img src="https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=3C873A" />
 <img src="https://img.shields.io/badge/vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=41B883" />
-<img src="https://img.shields.io/badge/mysql-F29221?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=F29221" />
 </div>
 
 <br>
